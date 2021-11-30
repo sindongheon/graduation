@@ -1,7 +1,7 @@
 # The City 게임
 b877020 신동헌
 
-####작품 유튜브 링크
+작품 유튜브 링크
 https://www.youtube.com/watch?v=tYCmIUbhLiA
 # 1. 게임소개
 
